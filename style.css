@@ -1,0 +1,33 @@
+.gibby {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 350px;
+    
+
+}
+h1 {
+    color: rgb(23, 161, 161);
+text-align: center;
+}
+p {
+    color: blueviolet;
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+
+.cat {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.cat > div {
+    color: blue;
+    margin:25px;
+    
+
+
+}
